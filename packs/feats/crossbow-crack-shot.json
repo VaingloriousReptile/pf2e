@@ -39,7 +39,7 @@
                     "item:group:crossbow"
                 ],
                 "selector": "strike-damage",
-                "type": "circumstance",
+                "type": "untyped",
                 "value": "@weapon.system.damage.dice"
             },
             {
